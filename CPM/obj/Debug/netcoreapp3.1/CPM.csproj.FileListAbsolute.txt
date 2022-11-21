@@ -1,0 +1,14 @@
+D:\c#\CPM\CPM\CPM\bin\Debug\netcoreapp3.1\CPM.exe
+D:\c#\CPM\CPM\CPM\bin\Debug\netcoreapp3.1\CPM.deps.json
+D:\c#\CPM\CPM\CPM\bin\Debug\netcoreapp3.1\CPM.runtimeconfig.json
+D:\c#\CPM\CPM\CPM\bin\Debug\netcoreapp3.1\CPM.runtimeconfig.dev.json
+D:\c#\CPM\CPM\CPM\bin\Debug\netcoreapp3.1\CPM.dll
+D:\c#\CPM\CPM\CPM\bin\Debug\netcoreapp3.1\CPM.pdb
+D:\c#\CPM\CPM\CPM\obj\Debug\netcoreapp3.1\CPM.csproj.AssemblyReference.cache
+D:\c#\CPM\CPM\CPM\obj\Debug\netcoreapp3.1\CPM.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CPM\CPM\CPM\obj\Debug\netcoreapp3.1\CPM.AssemblyInfoInputs.cache
+D:\c#\CPM\CPM\CPM\obj\Debug\netcoreapp3.1\CPM.AssemblyInfo.cs
+D:\c#\CPM\CPM\CPM\obj\Debug\netcoreapp3.1\CPM.csproj.CoreCompileInputs.cache
+D:\c#\CPM\CPM\CPM\obj\Debug\netcoreapp3.1\CPM.dll
+D:\c#\CPM\CPM\CPM\obj\Debug\netcoreapp3.1\CPM.pdb
+D:\c#\CPM\CPM\CPM\obj\Debug\netcoreapp3.1\CPM.genruntimeconfig.cache
