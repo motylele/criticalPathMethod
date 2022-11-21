@@ -9,6 +9,10 @@ CPM algorithm for an AN newtork (activity on nodes).
 ## Input specification
 In the first line of standard input user enters the number of tasks (nodes). Then we specify every node name, its duration $(>0)$, number of the direct ancestors and names of their nodes (ancestors must be first added as a node to be ancestor of something, this prevents the formation of cycles, **also first node can't have any ancestor**).
 
+### remarks
+* the graph must be acyclic and directed
+* Gantt schedule works on up to 5 machines
+
 ## Output specification
 The program simulates the CPM algorithm and returns the names of the nodes in the order
 in which the critical path was created. The earliest start (es), latest start (ls), earliest end (ee),
