@@ -7,7 +7,7 @@ CPM algorithm for an AN newtork (activity on nodes).
 * shows the order of tasks (Gantt schedule)
 
 ## Input specification
-In the first line of standard input user enters the number of tasks (nodes). Then we specify every node name, its duration $(>0)$, number of the direct ancestors and names of their nodes (ancestors must be first added as a node to be ancestor of something, this prevents the formation of cycles, **also first node can't have any ancestor**).
+In the first line of standard input user enters the number of tasks (nodes). Then in a loop we specify every node name, its duration $(>0)$, number of the direct ancestors (expect the first one) and names of their nodes (ancestors must be first added as a node to be ancestor of something, this prevents the formation of cycles, **also first node can't have any ancestor**).
 
 ### remarks
 * the graph must be acyclic and directed
