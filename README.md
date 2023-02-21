@@ -19,7 +19,7 @@ in which the critical path was created. The earliest start (es), latest start (l
 latest end (le) of each node is also calucalted). Finally, the Gantt schedule is displayed.
 
 ## Example
-![Screenshot](example.jpg)
+![Screenshot](cpmexample.png)
 
 ### Input
 6 </br>
